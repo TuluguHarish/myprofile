@@ -91,7 +91,7 @@ function Certs() {
     <section
       id="certs"
       ref={ref}
-      className="min-h-screen px-6 py-24 flex items-center justify-center"
+      className="min-h-screen px-6 py-28 md:py-24 flex items-center justify-center"
     >
       <div className="max-w-6xl w-full">
         <h2 className="text-3xl font-bold mb-12 text-center">
